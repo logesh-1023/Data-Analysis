@@ -1,0 +1,8 @@
+Package Failed  
+ERROR CODE :-1073450974
+27-10-2022 11:00:10Error 
+Error Description : 
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component "GEOGRAPHY_DIMENSION" (114) failed with error code 0xC0209029 while processing input "ODBC Destination Input" (125). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+PackageName :Package
+
